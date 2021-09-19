@@ -20,7 +20,7 @@ The purpose of this analysis is to use python to read voting data from a file an
 
 This shows that this script can accurately analyze voting data when given a raw csv file
 As long as the data is collected and stored the same way as this election, it will be able to dynamically analyze the results as it was coded with that in mind
-![code](https://raw.githubusercontent.com/Queach/election_analysis/main/Resources/Coding%20Example.png"code")
+![code](https://raw.githubusercontent.com/Queach/election_analysis/main/Resources/Coding%20Example.png "code")
 
 As seen in the image, candidates will be added dynamically and the script can be used for a larger dataset
 
